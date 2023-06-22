@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(280.09deg, rgba(192, 4, 4, 0.7) 0%, rgba(239, 51, 1, 0.7) 77%), url(images/background-main-photo-croped.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
